@@ -4,7 +4,7 @@
 
 This project demonstrates a basic manual functional testing process for a web-based shopping cart.
 
-The goal was to practice creating test cases, executing them manually, documenting test results, and verifying the core functionality of a shopping cart.
+The goal was to practice creating test cases, executing them manually, documenting test results, and verifying the core functionality of a shopping cart using the https://qapracticehub.com/ website.
 
 
 The following functionality was tested:
